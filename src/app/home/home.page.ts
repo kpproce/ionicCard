@@ -7,6 +7,9 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  myName = "Kim Proce"
+  myTrip = {"name":"resort Blue", "price": 420}
+
   constructor() {}
 
 }
